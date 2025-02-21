@@ -1,2 +1,3 @@
 # HTML
-basic html projects
+Basic HTML initial small projects.
+
